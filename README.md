@@ -188,11 +188,15 @@ Of course, in addition to this, a lot of small tasks have been completed and a l
 
 The Settings screen is always very simple and every time I want to embellish it.
 
-<img title="Settings" src="/Resources/Images/settings.PNG" width="200"/>
+| <img title="Settings" src="/Resources/Images/settings.PNG" width="200"/> |
+|:--:|
+| *Settings* |
 
 In this case, the decoration is a Premium Banner with an animated and looped gradient written in code.
 
-<img title="Settings Banner" src="/Resources/GIF/settings-banner.gif" width="400"/>
+| <img title="Settings Banner" src="/Resources/GIF/settings-banner.gif" width="400"/> |
+|:--:|
+| *Settings Banner* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
