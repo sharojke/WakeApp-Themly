@@ -286,10 +286,10 @@ To install Widgets, Icons and Wallpapers, you need to do some steps that are not
 Since the instructions were very similar to each other, they could be divided into types and the instructions screen could be reused by passing the type to it.  
 I created a manager that generated instructions based on the conditions listed above.
 
-| <img title="Widgets" src="/Resources/Images/widgets-instruction-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Profile Icons" src="/Resources/Images/icons-profile-instruction-0.PNG" width="200"/> |
+| <img title="Widgets" src="/Resources/Images/widgets-instruction-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Widgets" src="/Resources/Images/widgets-instruction-1.PNG" width="200"/> |
 |:--:|
-| <img title="Shortcut Icons" src="/Resources/Images/icons-shortcut-instruction-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Wallpapers" src="/Resources/Images/wallpapers-instruction-0.PNG" width="200"/> |
-| <img title="Themes" src="/Resources/Images/themes-instruction-0.PNG" width="200"/> |
+| <img title="Profile Icons" src="/Resources/Images/icons-profile-instruction-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Shortcut Icons" src="/Resources/Images/icons-shortcut-instruction-0.PNG" width="200"/> |
+| <img title="Wallpapers" src="/Resources/Images/wallpapers-instruction-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Themes" src="/Resources/Images/themes-instruction-0.PNG" width="200"/> |
 | *Instructions* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
