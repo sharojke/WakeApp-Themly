@@ -47,17 +47,17 @@
     <li>
       <a href="#functionality">Functionality</a>
       <ul>
-        <li><a href="#settings">Settings</a></li>
         <li><a href="#widget-elements">Widget Elements</a></li>
           <ul>
             <li><a href="#weather">Weather</a></li>
             <li><a href="#currency">Currency</a></li>
             <li><a href="#progress-indicators">Progress Indicators</a></li>
           </ul>
-        <li><a href="#in-app-purchase">In-app Purchase</a></li>
         <li><a href="#custom-transitions">Custom Transitions</a></li>
-        <li><a href="#weather-and-location-manager">Weather and Location Manager</a></li>
+        <li><a href="#in-app-purchase">In-app Purchase</a></li>
         <li><a href="#instructions">Instructions</a></li>
+        <li><a href="#settings">Settings</a></li>
+        <li><a href="#weather-and-location-manager">Weather and Location Manager</a></li>
       </ul>
     </li>
   </ol>
@@ -184,23 +184,6 @@ Of course, in addition to this, a lot of small tasks have been completed and a l
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Settings
-
-The Settings screen is always very simple and every time I want to embellish it.
-
-| <img title="Settings" src="/Resources/Images/settings.PNG" width="200"/> |
-|:--:|
-| *Settings* |
-
-In this case, the decoration is a Premium Banner with an animated and looped gradient written in code.
-
-| <img title="Settings Banner" src="/Resources/GIF/settings-banner.gif" width="400"/> |
-|:--:|
-| *Settings Banner* |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ### Widget Elements
 
 Some of my tasks were "Creating elements for widgets". They were created in the widget-extension on SwiftUI, and displayed in the application using the UIHostingController.
@@ -237,6 +220,17 @@ In fact, a multi-layered progress has been created, which may look like in the F
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+### Custom Transitions
+
+From the moment I learned how to make custom transitions, I started using them as often as possible. In this project, there were not a lot of places where they could be used. However, in this case with a subscription, it looks good.
+
+| <img title="Subscription Transition" src="/Resources/GIF/subscription-transition.gif" width="200"/> |
+|:--:|
+| *Subscription Transition* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ### In-app Purchase
 
 I implemented an In-app Purchase manager that supported the operation of all subscription screens, of which there were about 3.
@@ -252,29 +246,6 @@ The second subscription screen is adapted to different content.
 | <img title="Widgets" src="/Resources/Images/subscription-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Icons" src="/Resources/Images/subscription-1.PNG" width="200"/> &nbsp;&nbsp; <img title="Wallpapers" src="/Resources/Images/subscription-2.PNG" width="200"/> |
 |:--:|
 | *The second subscription screen* |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Custom Transitions
-
-From the moment I learned how to make custom transitions, I started using them as often as possible. In this project, there were not a lot of places where they could be used. However, in this case with a subscription, it looks good.
-
-| <img title="Subscription Transition" src="/Resources/GIF/subscription-transition.gif" width="200"/> |
-|:--:|
-| *Subscription Transition* |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Weather and Location Manager
-
-I was faced with the task of adding a weather service to the application. The weather is tightly connected to the user's geolocation.  
-Below you can see how access to the user's location is checked when displaying the weather widget.
-
-| <img title="Location Permission" src="/Resources/GIF/location-permission.gif" width="200"/> |
-|:--:|
-| *Location Permission* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -295,6 +266,35 @@ I created a manager that generated instructions based on the conditions listed a
 | <img title="Profile Icons" src="/Resources/Images/icons-profile-instruction-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Shortcut Icons" src="/Resources/Images/icons-shortcut-instruction-0.PNG" width="200"/> |
 | <img title="Wallpapers" src="/Resources/Images/wallpapers-instruction-0.PNG" width="200"/> &nbsp;&nbsp; <img title="Themes" src="/Resources/Images/themes-instruction-0.PNG" width="200"/> |
 | *Instructions* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Settings
+
+The Settings screen is always very simple and every time I want to embellish it.
+
+| <img title="Settings" src="/Resources/Images/settings.PNG" width="200"/> |
+|:--:|
+| *Settings* |
+
+In this case, the decoration is a Premium Banner with an animated and looped gradient written in code.
+
+| <img title="Settings Banner" src="/Resources/GIF/settings-banner.gif" width="400"/> |
+|:--:|
+| *Settings Banner* |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Weather and Location Manager
+
+I was faced with the task of adding a weather service to the application. The weather is tightly connected to the user's geolocation.  
+Below you can see how access to the user's location is checked when displaying the weather widget.
+
+| <img title="Location Permission" src="/Resources/GIF/location-permission.gif" width="200"/> |
+|:--:|
+| *Location Permission* |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
