@@ -6,14 +6,7 @@
 <br />
 <div align="center">
   <img title="App Icon" src="/Resources/Images/app-icon.JPG" alt="Logo" height="200">
-  
   <h3 align="center">Themly</h3>
-  
-  <p align="center">
-    <em>
-      An application that helps people decorate their phone's home screen
-    </em>
-  </p>
 </div>
 
 
